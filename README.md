@@ -7,9 +7,8 @@
               By #Z3RT ~ fsociety
 
 FOR ANY SUGGESTION CONTACT ME:
-------------------------------------------------
 IG: https://www.instagram.com/z3rtx/
--------------------------------------------------
+
 # Instructions
 Dont run it as root.
 
