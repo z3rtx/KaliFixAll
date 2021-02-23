@@ -8,6 +8,8 @@
 Kali Linux Problems & Bugs Fix Script.
 
 # Instructions
+Dont run as root.
+
 git clone https://github.com/Z3RTx/KaliFixAll
 
 cd KaliFixAll
