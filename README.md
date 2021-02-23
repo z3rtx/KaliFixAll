@@ -8,12 +8,13 @@
 Kali Linux Problems & Bugs Fix Script.
 
 # Instructions
-Dont run as root.
-
+Dont run it as root.
+--------------------------------------------
 git clone https://github.com/Z3RTx/KaliFixAll
-
+--------------------------------------------
 cd KaliFixAll
-
+--------------------------------------------
 sudo chmod +x kalifixall.sh
-
+--------------------------------------------
 ./kalifixall.sh
+--------------------------------------------
