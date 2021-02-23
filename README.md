@@ -6,7 +6,7 @@
         |_|\_\__,_|_|_|_|   |_/_/\_\/_/   \_\_|_|
               By #Z3RT ~ fsociety
 
-FOR ANY SUGGESTION CONTACT ME:
+* FOR ANY SUGGESTION CONTACT ME:
 * IG: https://www.instagram.com/z3rtx/
 
 # Instructions
