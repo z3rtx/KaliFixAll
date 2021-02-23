@@ -11,12 +11,11 @@ IG: https://www.instagram.com/z3rtx/
 
 # Instructions
 Dont run it as root.
+*git clone https://github.com/Z3RTx/KaliFixAll
 
-"."git clone https://github.com/Z3RTx/KaliFixAll
+*cd KaliFixAll
 
-cd KaliFixAll
+*sudo chmod +x kalifixall.sh
 
-sudo chmod +x kalifixall.sh
-
-./kalifixall.sh
+*./kalifixall.sh
 
