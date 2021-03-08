@@ -10,6 +10,8 @@
 * IG: https://www.instagram.com/z3rtx/
 
 # Instructions
+* do not run as root
+
 * git clone https://github.com/Z3RTx/KaliFixAll
 
 * cd KaliFixAll
