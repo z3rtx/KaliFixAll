@@ -1,7 +1,7 @@
 # KaliFixAll v1.0
 Kali Linux Problems & Bugs Auto fix
 
-# Instructions
+# Usage :
 git clone https://github.com/Z3RTx/KaliFixAll
 
 cd KaliFixAll
