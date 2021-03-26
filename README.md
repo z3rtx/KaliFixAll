@@ -1,4 +1,4 @@
-# KaliFixAll v1.0
+# KaliFixAll v1.1
 Kali Linux Problems & Bugs Auto fix
 
 # Suggestion
